@@ -49,7 +49,7 @@ No build step. The whole tool is one `index.html` file with its CSS, JavaScript 
 
 ## Related
 
-- [compound-interest-visualizer](https://github.com/0xelitesystem/compound-interest-visualizer)
+- [monthly-compounding-growth-chart](https://github.com/0xelitesystem/monthly-compounding-growth-chart)
 - [net-worth-snapshot](https://github.com/0xelitesystem/net-worth-snapshot)
 - [emergency-fund-and-runway-reference](https://github.com/0xelitesystem/emergency-fund-and-runway-reference)
 
