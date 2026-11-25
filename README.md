@@ -1,8 +1,8 @@
-# Savings Goal Planner
+# Savings Goal Solver
 
 > Solve for the monthly amount, or for how long the goal takes.
 
-**Live demo:** https://0xelitesystem.github.io/savings-goal-planner/
+**Live demo:** https://0xelitesystem.github.io/savings-goal-solver/
 
 Not financial advice. This is an estimate from the numbers you enter, for learning and planning only.
 
@@ -22,7 +22,7 @@ Single HTML file. Runs in the browser with no build step, no server, no tracking
 
 ## Use
 
-Open the hosted page: https://0xelitesystem.github.io/savings-goal-planner/
+Open the hosted page: https://0xelitesystem.github.io/savings-goal-solver/
 
 Or download `index.html` and open it in any browser. It works offline.
 
@@ -37,8 +37,8 @@ Everything runs client-side. No analytics, no cookies, no network calls, no loca
 ## Run locally
 
 ```bash
-git clone https://github.com/0xelitesystem/savings-goal-planner
-cd savings-goal-planner
+git clone https://github.com/0xelitesystem/savings-goal-solver
+cd savings-goal-solver
 ```
 
 Open `index.html` in any browser. Or serve the folder with `python -m http.server 8000` and visit http://localhost:8000/.
